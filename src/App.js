@@ -6,6 +6,7 @@ import { Content } from './components/Content';
 import {Team } from './components/Teams';
 import {Footer } from './components/MyFooter';
 import {Statistic }  from './components/Stats';
+import {Teams_two } from './components/Teams_two';
 const App = () => {
     return (
         <div>
@@ -13,7 +14,6 @@ const App = () => {
              <Feature />
              <Content />
              <Statistic />
-             <Team />
              <Team />
              <Footer />
         </div>

@@ -3,7 +3,7 @@
 import {Step } from './Register';
 export const Header = () => {
   return (
-    <div className="relative  ">
+    <div className="header relative  ">
       
       <div className="absolute inset-x-0 bottom-0">
         <svg
@@ -18,7 +18,7 @@ export const Header = () => {
       <div className="px-4 py-12 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-13">
         <div className="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center">
           <h1 className="mb-2  md:text-6xl text-white font-bold tracking-tight  mb-6 text-4xl sm:leading-none">
-            KENYA <span className="text-green-600"> INNOVATION </span> <span className="text-red-500">AND</span>  TRADE <span > EXPO</span>
+            KENYA <span className="text-green-600 font-Times New Roman"> INNOVATION </span> <span className="text-red-500">AND</span>  TRADE <span > EXPO</span>
           </h1>
          
           <h1 className="md:text-4xl text-2xl mb-8  text-white">7th - 9th April 2022</h1>

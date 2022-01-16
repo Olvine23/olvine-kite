@@ -1,13 +1,8 @@
 import iat from "../images/organizer/iat.png";
 import kncc from "../images/organizer/kncc.jpeg"
-import baraza from "../images/platinum sponsor/images.png"
 import county from "../images/organizer/cc.jpeg"
-import sa from '../images/industry partners/sa.png'
 import monte from '../images/organizer/monte.jpeg'
-import mih from '../images/innovation partner/mih.png';
-import esc from '../images/organizer/esc.jpeg';
-import travel from '../images/travel partner/travel.png';
-export const Team = () => {
+export const Teams_two = () => {
     return (
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div className="mx-auto mb-10 lg:max-w-xl sm:text-center">
@@ -27,8 +22,8 @@ export const Team = () => {
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Infinity Access Techonoligies</p>
-              <p className="text-sm text-gray-800"> Event Organizer</p>
+              <p className="text-lg font-bold">Oliver Aguilerra</p>
+              <p className="text-sm text-gray-800">Product Manager</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -38,85 +33,74 @@ export const Team = () => {
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <h1 className="text-lg font-bold">County Government Kakamega</h1>
-              <p className="text-sm text-gray-800">Host Partner</p>
+              <p className="text-lg font-bold">Marta Clermont</p>
+              <p className="text-sm text-gray-800">Design Team Lead</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
             <img
               className="object-cover w-auto h-20 mb-2  shadow"
-              src= {baraza}
+              src= {kncc}
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Baraza Foundation</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-lg font-bold">Anthony Geek</p>
+              <p className="text-sm text-gray-800">CTO, Lorem Inc.</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
             <img
               className="object-cover w-auto  h-20 mb-2 "
-              src= {kncc}
-              alt="Person"
-            />
-            <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">KNCCI</p>
-              <p className="text-sm text-gray-800">PLatinum Sponsor</p>
-            </div>
-          </div>
-          <div className="flex flex-col items-center">
-            <img
-              className="object-cover w-auto h-20 mb-2   shadow"
               src= {monte}
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Monterey Bay International Trade Association</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-lg font-bold">Alice Melbourne</p>
+              <p className="text-sm text-gray-800">Human Resources</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
             <img
-              className="object-cover h-20 mb-2   shadow"
-              src={sa}
+              className="object-cover w-20 h-20 mb-2 rounded-full shadow"
+              src="https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">South African Chmaber of Commerce</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-lg font-bold">Martin Garix</p>
+              <p className="text-sm text-gray-800">Bad boy</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
             <img
-              className="object-cover w-auto h-20 mb-2   shadow"
-              src= {esc}
+              className="object-cover w-20 h-20 mb-2 rounded-full shadow"
+              src="https://images.pexels.com/photos/3931603/pexels-photo-3931603.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Magharibi Innovation Hub</p>
-              <p className="text-sm text-gray-800">Innovation Partner</p>
+              <p className="text-lg font-bold">Andrew Larkin</p>
+              <p className="text-sm text-gray-800">Backend Developer</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
             <img
-              className="object-cover w-auto h-20 mb-2   shadow"
-              src= {mih}
+              className="object-cover w-20 h-20 mb-2 rounded-full shadow"
+              src="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260"
+              alt="Person"
+            />
+            <div className="flex flex-col items-center">
+              <p className="text-lg font-bold">Sophie Denmo</p>
+              <p className="text-sm text-gray-800">Designer UI/UX</p>
+            </div>
+          </div>
+          <div className="flex flex-col items-center">
+            <img
+              className="object-cover w-20 h-20 mb-2 rounded-full shadow"
+              src="https://images.pexels.com/photos/3931553/pexels-photo-3931553.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
               alt="Person"
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">Benedict Caro</p>
               <p className="text-sm text-gray-800">Frontend Developer</p>
-            </div>
-          </div>
-          <div className="flex flex-col items-center">
-            <img
-              className="object-cover w-auto h-20 mb-2   shadow"
-              src= {travel}
-              alt="Person"
-            />
-            <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Travel Catalogue</p>
-              <p className="text-sm text-gray-800">Travel Partner</p>
             </div>
           </div>
         </div>
