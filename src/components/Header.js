@@ -21,7 +21,7 @@ export const Header = () => {
             KENYA <span className="text-green-600"> INNOVATION </span> <span className="text-red-500">AND</span>  TRADE <span > EXPO</span>
           </h1>
          
-          <h1 className="text-4xl mb-8  text-white">7th - 9th April 2022</h1>
+          <h1 className="md:text-4xl text-2xl mb-8  text-white">7th - 9th April 2022</h1>
           <p className="mb-7 text-base rounded  bg-white p-2 text-red md:text-lg">
             <span className="uppercase text-black text-3xl mr-3">Theme:</span> <br /> <span className="text-3xl text-red-500 font-bold">Thriving Through Innnovation & Trade</span>   
           </p>
