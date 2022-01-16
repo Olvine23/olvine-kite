@@ -5,12 +5,14 @@ import { Feature } from './components/Feature';
 import { Content } from './components/Content';
 import {Team } from './components/Teams';
 import {Footer } from './components/MyFooter';
+import {Statistic }  from './components/Stats';
 const App = () => {
     return (
         <div>
              <MainHead /> 
              <Feature />
              <Content />
+             <Statistic />
              <Team />
              <Team />
              <Footer />
