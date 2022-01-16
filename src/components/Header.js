@@ -15,7 +15,7 @@ export const Header = () => {
           <path d="M0,0 C48.8902582,6.27314026 86.2235915,9.40971039 112,9.40971039 C137.776408,9.40971039 175.109742,6.27314026 224,0 L224,12.0441132 L0,12.0441132 L0,0 Z" />
         </svg>
       </div>
-      <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-15">
+      <div className="px-4 py-12 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-13">
         <div className="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center">
           <h1 className="mb-2  md:text-6xl text-white font-bold tracking-tight  mb-6 text-4xl sm:leading-none">
             KENYA <span className="text-green-600"> INNOVATION </span> <span className="text-red-500">AND</span>  TRADE <span > EXPO</span>
@@ -45,7 +45,7 @@ export const Header = () => {
               width="12"
               height="12"
               viewBox="0 0 12 12"
-              fill="currentColor"
+              fill="red"
             >
               <path d="M10.293,3.293,6,7.586,1.707,3.293A1,1,0,0,0,.293,4.707l5,5a1,1,0,0,0,1.414,0l5-5a1,1,0,1,0-1.414-1.414Z" />
             </svg>

@@ -9,14 +9,14 @@ export const Step = () => {
           </div>
           <div className="sm:text-center">
           <div className="flex items-center justify-center mb-2 hover:bg-green-300 font-extrabold rounded-full text-deep-purple-accent-400 bg-green-500 sm:mx-auto">
-          <a href="/" className="text-white hover:text-red-500 text-2xl p-4 font-semibold leading-5">Exhibitor</a>
+          <a href="/" className="text-white hover:text-red-500 text-2xl md:p-4 p-2 font-semibold leading-5">Exhibitor</a>
             </div>
             
              
           </div>
           <div className="sm:text-center">
           <div className="flex items-center justify-center mb-2  font-extrabold rounded-full   hover:bg-green-300 hover:text-red-500 bg-green-500 sm:mx-auto">
-          <a href="/" className="text-white hover:text-red-500 font-semibold p-4 text-2xl leading-5">Delegator</a>
+          <a href="/" className="text-white hover:text-red-500 font-semibold md:p-4 p-2 text-2xl leading-5">Delegator</a>
             </div>
 
           </div>
