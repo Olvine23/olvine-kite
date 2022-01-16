@@ -26,7 +26,7 @@ export const Content = () => {
             <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
               <div className="bg-black md:ml-6 border-l-4 shadow-sm border-deep-purple-accent-400">
                 <div className="h-full p-5 border border-l-0 rounded-r">
-                  <h6 className="mb-2 font-semibold leading-5 text-yellow-600">
+                  <h6 className="mb-2 font-semibold leading-5 text-yellow-700">
                     I'll be sure to note that in my log
                   </h6>
                   <p className="text-sm text-white">
