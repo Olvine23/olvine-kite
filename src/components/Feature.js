@@ -26,7 +26,7 @@ export const Feature = () => {
               </div>
               <h6 className="font-semibold leading-5 text-red-500">Register as an exhibitor </h6>
             </div>
-            <p className="mb-2 text-sm text-gray-900 ">
+            <p className="mb-2  text-sm text-gray-900 ">
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem
               accusantium doloremque rem aperiam.
             </p>

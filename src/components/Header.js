@@ -17,13 +17,13 @@ export const Header = () => {
       </div>
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-15">
         <div className="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center">
-          <h1 className="mb-2  md:text-6xl text-white font-bold tracking-tight  mb-6 sm:text-4xl sm:leading-none">
+          <h1 className="mb-2  md:text-6xl text-white font-bold tracking-tight  mb-6 text-4xl sm:leading-none">
             KENYA <span className="text-green-600"> INNOVATION </span> <span className="text-red-500">AND</span>  TRADE <span > EXPO</span>
           </h1>
          
           <h1 className="text-4xl mb-8  text-white">7th - 9th April 2022</h1>
           <p className="mb-7 text-base rounded  bg-white p-2 text-red md:text-lg">
-            <span className="uppercase text-black text-3xl mr-3">Theme:</span> <span className="text-3xl text-red-500 font-bold">Thriving Through Innnovation & Trade</span>   
+            <span className="uppercase text-black text-3xl mr-3">Theme:</span> <br /> <span className="text-3xl text-red-500 font-bold">Thriving Through Innnovation & Trade</span>   
           </p>
           <h1 className="text-white text-2xl">Register To Attend As </h1>
           <Step />
