@@ -1,5 +1,5 @@
-import stadium from "../images/bg.jpg";
-import {Feature } from './Feature';
+/* eslint-disable no-unused-vars */
+ 
 import {Step } from './Register';
 export const Header = () => {
   return (

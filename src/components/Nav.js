@@ -21,8 +21,8 @@ export const Nav = () => {
               <li>
                 <a
                   href="/"
-                  aria-label="Our product"
-                  title="Our product"
+                  aria-label="Agenda for the expo"
+                  title="Agenda for the expo"
                   class="font-medium   tracking-wide text-white transition-colors duration-200 hover:text-green-400"
                 >
                   Agenda
@@ -31,8 +31,8 @@ export const Nav = () => {
               <li>
                 <a
                   href="/"
-                  aria-label="Our product"
-                  title="Our product"
+                  aria-label="View Speakers"
+                  title="View Speakers"
                   class="font-medium   tracking-wide text-white transition-colors duration-200 hover:border-red-600 hover:text-green-400"
                 >
                   Speakers
@@ -41,8 +41,8 @@ export const Nav = () => {
               <li>
                 <a
                   href="/"
-                  aria-label="Product pricing"
-                  title="Product pricing"
+                  aria-label="Sponsors & Exhibitors"
+                  title="Sponsors & Exhibitors"
                   class="font-medium  tracking-wide text-white transition-colors duration-200 hover:text-green-400 border-orange-900"
                 >
                   Sponsors & Exhibitors
