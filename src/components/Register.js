@@ -4,7 +4,7 @@ export const Step = () => {
         <div className="grid gap-8 row-gap-8 lg:grid-cols-3 sm:cols-3">
           <div className="sm:text-center">
             <div className="flex items-center justify-center hover:bg-green-300  md:mb-2 mb-0 font-extrabold rounded-full text-deep-purple-accent-400 bg-green-500 sm:mx-auto">
-            <a href="/" className="text-white text-2xl hover:text-red-500 md:p-4 p-2 font-semibold leading-1">Start-up</a>
+            <a href="/" className="text-white text-2xl hover:text-red-500 md:p-4 p-2 font-semibold leading-5">Start-up</a>
             </div>  
           </div>
           <div className="sm:text-center">
