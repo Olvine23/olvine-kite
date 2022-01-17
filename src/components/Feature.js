@@ -27,13 +27,12 @@ export const Feature = () => {
               <h6 className="font-semibold leading-5 text-red-500">Register as an exhibitor </h6>
             </div>
             <p className="mb-2  text-sm text-gray-900 ">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque rem aperiam.
+               Register now and secure your slot as an exhibitor
             </p>
             <a
               href="/"
               aria-label=""
-              className="inline-flex items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="inline-flex md:mt-4 items-center text-sm bg-green-600 p-3 rounded font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
               Register Now
             </a>
@@ -64,13 +63,12 @@ export const Feature = () => {
               <h6 className="font-semibold leading-5  text-red-500">Register as Delegate</h6>
             </div>
             <p className="mb-2 text-sm text-gray-900">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque rem aperiam.
+               For sh.500 only (5$), register for the event as a delegate and secure your slot.
             </p>
             <a
               href="/"
               aria-label=""
-              className="inline-flex items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="inline-flex bg-green-600 p-3 rounded items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
               Register Now
             </a>
@@ -101,13 +99,12 @@ export const Feature = () => {
               <h6 className="font-semibold leading-5 text-red-500">Register as a start-up</h6>
             </div>
             <p className="mb-2 text-sm text-gray-900">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque rem aperiam.
+               For sh.3000 ($30) only, register as start-up to present and pitch your products.
             </p>
             <a
               href="/"
               aria-label=""
-              className="inline-flex items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="inline-flex bg-green-600 p-3 items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
               Register Now
             </a>

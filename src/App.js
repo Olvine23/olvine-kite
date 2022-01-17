@@ -7,13 +7,13 @@ import {Team } from './components/Teams';
 import {Footer } from './components/MyFooter';
 import {Statistic }  from './components/Stats';
 import {Teams_two } from './components/Teams_two';
+import {Content_two} from './components/Extra';
 const App = () => {
     return (
         <div>
              <MainHead /> 
              <Feature />
              <Content />
-             <Statistic />
              <Team />
              <Footer />
         </div>

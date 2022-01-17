@@ -1,7 +1,7 @@
 import iat from "../images/organizer/iat.png";
 import kncc from "../images/organizer/kncc.jpeg"
 import baraza from "../images/platinum sponsor/images.png"
-import county from "../images/organizer/cc.jpeg"
+import county from "../images/organizer/club.jpg"
 import sa from '../images/industry partners/sa.png'
 import monte from '../images/organizer/monte.jpeg'
 import mih from '../images/innovation partner/mih.png';
