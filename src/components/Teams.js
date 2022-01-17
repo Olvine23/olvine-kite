@@ -11,13 +11,10 @@ export const Team = () => {
     return (
       <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div className="mx-auto mb-10 lg:max-w-xl sm:text-center">
-          <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
-            Event Organizers
+          <p className="inline-block px-3 py-px mb-4 text-2xl font-bold tracking-wider text-teal-900 uppercase rounded-full bg-teal-accent-400">
+            Event Organizers, Sponsors and Partners
           </p>
-          <p className="text-base text-gray-700 md:text-lg">
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium.
-          </p>
+           
         </div>
         <div className="grid gap-10 mx-auto lg:max-w-screen-lg sm:grid-cols-2 lg:grid-cols-4">
           <div className="flex flex-col items-center">
@@ -28,7 +25,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">Infinity Access Techonoligies</p>
-              <p className="text-sm text-gray-800"> Event Organizer</p>
+              <p className="text-sm font-bold text-green-600"> Event Organizer</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -38,8 +35,8 @@ export const Team = () => {
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <h1 className="text-lg font-bold">County Government Kakamega</h1>
-              <p className="text-sm text-gray-800">Host Partner</p>
+              <h1 className="text-lg font-bold">Kakamega Sports Club</h1>
+              <p className="text-sm font-bold text-green-600">Host Partner</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -50,7 +47,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">Baraza Foundation</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-sm font-bold text-green-600">Platinum Sponsor</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -61,7 +58,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">KNCCI</p>
-              <p className="text-sm text-gray-800">PLatinum Sponsor</p>
+              <p className="text-sm font-bold text-green-600">Platinum Sponsor</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -72,7 +69,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">Monterey Bay International Trade Association</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-sm font-bold text-green-600">Platinum Sponsor</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -83,7 +80,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">South African Chmaber of Commerce</p>
-              <p className="text-sm text-gray-800">Platinum Sponsor</p>
+              <p className="text-sm font-bold text-green-600">Platinum Sponsor</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -93,8 +90,8 @@ export const Team = () => {
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Magharibi Innovation Hub</p>
-              <p className="text-sm text-gray-800">Innovation Partner</p>
+              <p className="text-lg font-bold">ESC India</p>
+              <p className="text-sm font-bold text-green-600">Platinum Sponsor</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -104,8 +101,8 @@ export const Team = () => {
               alt="Person"
             />
             <div className="flex flex-col items-center">
-              <p className="text-lg font-bold">Benedict Caro</p>
-              <p className="text-sm text-gray-800">Frontend Developer</p>
+              <p className="text-lg font-bold">Magharibi Innovation Hub</p>
+              <p className="text-sm font-bold text-green-600">Innovation Partner</p>
             </div>
           </div>
           <div className="flex flex-col items-center">
@@ -116,7 +113,7 @@ export const Team = () => {
             />
             <div className="flex flex-col items-center">
               <p className="text-lg font-bold">Travel Catalogue</p>
-              <p className="text-sm text-gray-800">Travel Partner</p>
+              <p className="text-sm font-bold text-green-600">Travel Partner</p>
             </div>
           </div>
         </div>

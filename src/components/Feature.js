@@ -9,10 +9,10 @@ export const Feature = () => {
           <div className="absolute bottom-0 right-0 w-1 h-full duration-300 origin-top transform scale-y-0 bg-deep-purple-accent-400 group-hover:scale-y-100" />
           <div className="relative p-5 bg-white rounded-sm">
             <div className="flex flex-col mb-2 lg:items-center lg:flex-row">
-              <div className="flex items-center justify-center w-20 h-20 mb-4 mr-2 rounded-full bg-indigo-50 lg:mb-0">
+              <div className="flex items-center bg-green-500 justify-center md:w-15 md:h-15 h-10 w-10 mb-4 mr-2 rounded-full bg-indigo-50 lg:mb-0">
                 <svg
                   className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
+                  stroke="red"
                   viewBox="0 0 52 52"
                 >
                   <polygon
@@ -45,10 +45,10 @@ export const Feature = () => {
           <div className="absolute bottom-0 right-0 w-1 h-full duration-300 origin-top transform scale-y-0 bg-deep-purple-accent-400 group-hover:scale-y-100" />
           <div className="relative p-5 bg-white rounded-sm">
             <div className="flex flex-col mb-2 lg:items-center lg:flex-row">
-              <div className="flex items-center justify-center w-20 h-20 mb-4 mr-2 rounded-full bg-indigo-50 lg:mb-0">
+              <div className="flex items-center bg-green-500 justify-center md:w-15 w-10 h-10 md:h-15 mb-4 mr-2 rounded-full bg-indigo-50 lg:mb-0">
                 <svg
                   className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
+                  stroke="red"
                   viewBox="0 0 52 52"
                 >
                   <polygon
@@ -81,10 +81,10 @@ export const Feature = () => {
           <div className="absolute bottom-0 right-0 w-1 h-full duration-300 origin-top transform scale-y-0 bg-deep-purple-accent-400 group-hover:scale-y-100" />
           <div className="relative p-5 bg-white rounded-sm">
             <div className="flex flex-col mb-2 lg:items-center lg:flex-row">
-              <div className="flex items-center justify-center w-30 h-20 mb-4 mr-2 rounded-full bg-indigo-50 lg:mb-0">
+            <div className="flex items-center justify-center md:w-15 md:h-15 h-10 w-10 mb-4 mr-2 rounded-full bg-green-500 lg:mb-0">
                 <svg
                   className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
+                  stroke="red"
                   viewBox="0 0 52 52"
                 >
                   <polygon
@@ -96,7 +96,7 @@ export const Feature = () => {
                   />
                 </svg>
               </div>
-              <h6 className="font-semibold leading-5 text-red-500">Register as a start-up</h6>
+              <h6 className="font-semibold text-red-500">Register as a start-up</h6>
             </div>
             <p className="mb-2 text-sm text-gray-900">
                For sh.3000 ($30) only, register as start-up to present and pitch your products.
@@ -104,7 +104,7 @@ export const Feature = () => {
             <a
               href="/"
               aria-label=""
-              className="inline-flex bg-green-600 p-3 items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+              className="inline-flex rounded bg-green-600 p-3 items-center text-sm font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
             >
               Register Now
             </a>

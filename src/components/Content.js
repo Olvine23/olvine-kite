@@ -6,21 +6,22 @@ export const Content = () => {
         <div className="grid gap-5 row-gap-8 lg:grid-cols-2">
           <div className="flex flex-col justify-center bg-white">
             <div className="max-w-xl mb-6 ">
-              <h2 className="max-w-lg mb-6 text-black ml-6   text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none">
-                The quick, brown fox
+              <h2 className="max-w-lg mb-6 text-black ml-6   text-4xl font-bold tracking-tight md:text-5xl sm:leading-none">
+                Overview <span className='text-red-500'>and</span> outline of
                 <br className="hidden md:block" />
-                jumps over{' '}
-                <span className="relative px-1">
-                  <div className="absolute inset-x-0 bottom-0 h-3 transform -skew-x-12 bg-teal-accent-400" />
-                  <span className="relative inline-block text-deep-purple-accent-400">
-                    a lazy dog
-                  </span>
-                </span>
+                the <span className="text-green-500">event</span> {' '}
+                 
               </h2>
               <p className="text-base text-gray-800 ml-6 md:text-lg">
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                quae. explicabo.
+              The Hybrid event being the first ever (Inaugural) hosted in Kakamega county targeting
+              the audience of : <span className="font-bold">companies, startups, entreprenuers, international business, women owned
+              entreprises/groups, manufacturers, young innovation and technology enthusiasts,startup founders, innovators, content creators, creative artists, designers including established
+              companies/entities/businesses that want exposure for their products and services. </span> <br /> The
+              mentioned scope of participants being from <span className='font-bold text-green-500'>Kakamega county, Kenya wide and
+              international. </span>This is the expected audience as the location and the branding effect shall
+              be ernormous.Investors and financial institutions are in pipeline to participate including
+              government agencies helping develop entreprenuers either through training,mentorship
+              and financing or other resources.
               </p>
             </div>
             <div className="grid gap-5 row-gap-8 sm:grid-cols-2">
@@ -50,7 +51,7 @@ export const Content = () => {
           </div>
           <div>
             <img
-              className="object-cover w-full h-56 rounded shadow-lg sm:h-96"
+              className="object-cover w-full h-56 mt-14 rounded shadow-lg sm:h-96"
               src= {stadium}
               alt=""
             />

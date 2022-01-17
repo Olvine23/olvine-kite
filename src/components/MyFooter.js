@@ -40,19 +40,25 @@ export const Footer = () => {
               </a>
               <div className="mt-4 lg:max-w-sm">
                 <p className="text-sm text-deep-purple-50">
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam.
-                </p>
-                <p className="mt-4 text-sm text-deep-purple-50">
-                  Eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt explicabo.
+                The Kenya innovation and trade expo (KITexpo) is organized
+                by infinity access technologies that has curved an
+                opportunity and niche to focus on the mandate to open
+                innovation and trade exposure to regions in Kenya, which
+                have been unexploited and do have great potential for
+                business and brand exposure for both our sponsors and
+                exhibitors including participants.We do organize four events
+                in a year which alternate to cover the eight regions of Kenya
+                within a span of two years.
+                Your sponsorship/partnership will therefore encapsulate
+                your brand and guarantee continuous exposure in our
+                expositions.
                 </p>
               </div>
             </div>
             <div className="grid grid-cols-2 gap-5 row-gap-8 lg:col-span-4 md:grid-cols-4">
               <div>
                 <p className="font-semibold tracking-wide text-teal-accent-400">
-                  Category
+                  Organizer
                 </p>
                 <ul className="mt-2 space-y-2">
                   <li>
@@ -60,38 +66,14 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      News
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      World
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Games
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      References
+                       Infinity Access Technologies
                     </a>
                   </li>
                 </ul>
               </div>
               <div>
                 <p className="font-semibold tracking-wide text-teal-accent-400">
-                  Cherry
+                  Host Partner
                 </p>
                 <ul className="mt-2 space-y-2">
                   <li>
@@ -99,46 +81,14 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Web
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      eCommerce
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Business
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Entertainment
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Portfolio
+                      Kakamega Sports Club
                     </a>
                   </li>
                 </ul>
               </div>
               <div>
                 <p className="font-semibold tracking-wide text-teal-accent-400">
-                  Apples
+                  Sponsors
                 </p>
                 <ul className="mt-2 space-y-2">
                   <li>
@@ -146,7 +96,7 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Media
+                      Baraza Foundation
                     </a>
                   </li>
                   <li>
@@ -154,7 +104,7 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Brochure
+                      KNCCI
                     </a>
                   </li>
                   <li>
@@ -162,7 +112,7 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Nonprofit
+                      Monterey Bay International Trade Association
                     </a>
                   </li>
                   <li>
@@ -170,7 +120,7 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Educational
+                      South African Chamber of Commerce
                     </a>
                   </li>
                   <li>
@@ -178,14 +128,14 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Projects
+                      ESC India
                     </a>
                   </li>
                 </ul>
               </div>
               <div>
                 <p className="font-semibold tracking-wide text-teal-accent-400">
-                  Business
+                  Partners
                 </p>
                 <ul className="mt-2 space-y-2">
                   <li>
@@ -193,7 +143,7 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Infopreneur
+                      Magharibi Innovation Hub
                     </a>
                   </li>
                   <li>
@@ -201,31 +151,15 @@ export const Footer = () => {
                       href="/"
                       className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
                     >
-                      Personal
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Wiki
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="transition-colors duration-300 text-deep-purple-50 hover:text-teal-accent-400"
-                    >
-                      Forum
+                      Travel Catalogue
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
           </div>
-          <div className="flex flex-col justify-between pt-5 pb-10 border-t border-deep-purple-accent-200 sm:flex-row">
-            <p className="text-sm text-gray-100">
+          <div className="flex flex-col justify-between pt-5 pb-10 border-t border-red-500 sm:flex-row">
+            <p className="text-sm text-gray-800">
               © Copyright 2022 KiteExpo Inc. All rights reserved.
             </p>
             <div className="flex items-center mt-4 space-x-4 sm:mt-0">
